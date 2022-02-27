@@ -1,0 +1,35 @@
+.login_div1 , .login_div2
+	{
+		background: rgb(255, 233, 136);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        text-align: center;
+        border-color: cornsilk;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+	body
+{
+	
+	background-image:url("https://tse4.mm.bing.net/th?id=OIP.0vhxc2c07SBJZL8jbMl32gHaGJ&pid=Api&P=0&w=238&h=198");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#player1_name,#player2_name{
+	display: inline-block;
+	font-weight: bold;
+	color: crimson;
+}
+
+    
